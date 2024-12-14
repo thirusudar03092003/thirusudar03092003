@@ -47,7 +47,7 @@ const thiru = {
 | Category | Technologies |
 |----------|-------------|
 | Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| Web Dev | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| Web Dev | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | Tools | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
@@ -56,7 +56,46 @@ const thiru = {
 
 ## 🎯 Featured Projects
 
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🎮 Tic Tac Toe</h3> <p align="center"><strong>A Modern Take on the Classic Game</strong></p> <p align="center">Built with Android Studio featuring sleek UI, animations, and multiplayer support.</p> <p align="center"> <a href="https://github.com/thirusudar03092003/PRODIGY_AD_04.git" target="_blank"><strong>🔗 View Project</strong></a> </p> </td> <td width="50%"> <h3 align="center">🧮 Advanced Calculator</h3> <p align="center"><strong>Scientific Calculator App</strong></p> <p align="center">Feature-rich calculator with scientific functions and an elegant interface.</p> <p align="center"> <a href="https://github.com/thirusudar03092003/PRODIGY_AD_01.git" target="_blank"><strong>🔗 View Project</strong></a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">⏱️ Precision Stopwatch</h3> <p align="center"><strong>High-Precision Timer</strong></p> <p align="center">Professional-grade stopwatch with lap times and customizable intervals.</p> <p align="center"> <a href="https://github.com/thirusudar03092003/PRODIGY_AD_03.git" target="_blank"><strong>🔗 View Project</strong></a> </p> </td> <td width="50%"> <h3 align="center">📋 Task Master</h3> <p align="center"><strong>Smart To-Do List</strong></p> <p align="center">Intelligent task management with categories, reminders, and progress tracking.</p> <p align="center"> <a href="https://github.com/thirusudar03092003/PRODIGY_AD_02.git" target="_blank"><strong>🔗 View Project</strong></a> </p> </td> </tr> </table> </div>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎮 Tic Tac Toe</h3>
+<p align="center"><strong>Classic Two-Player Game</strong></p>
+<p align="center">A simple implementation of the traditional Tic Tac Toe game with basic UI and two-player functionality.</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/PRODIGY_AD_04.git" target="_blank"><strong>🔗 View Project</strong></a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🧮 Basic Calculator</h3>
+<p align="center"><strong>Simple Calculator App</strong></p>
+<p align="center">A straightforward calculator with basic arithmetic operations and a clean interface.</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/PRODIGY_AD_01.git" target="_blank"><strong>🔗 View Project</strong></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">⏱️ Simple Stopwatch</h3>
+<p align="center"><strong>Basic Timer App</strong></p>
+<p align="center">A straightforward stopwatch application with start, stop, and reset functionality.</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/PRODIGY_AD_03.git" target="_blank"><strong>🔗 View Project</strong></a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📋 Basic To-Do List</h3>
+<p align="center"><strong>Simple Task Manager</strong></p>
+<p align="center">A basic to-do list app for adding, completing, and removing tasks.</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/PRODIGY_AD_02.git" target="_blank"><strong>🔗 View Project</strong></a>
+</p>
+</td>
+</tr>
+</table>
+</div>
 
 ## 📊 GitHub Analytics
 
