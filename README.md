@@ -24,13 +24,13 @@
 const thiru = {
     pronouns: "he/him",
     education: "B.Tech in AI & Data Science",
-    currentRole: "Pre-final Year Student",
+    currentRole: "Final Year Student",
     internships: [
         "Android Developer @ Prodigy InfoTech",
         "Machine Learning @ Unified Mentor",
         "Web Development @ Atlanwa"
     ],
-    certifications: ["Google Cybersecurity"],
+    certifications: ["Google Cybersecurity,Google AI Essentials,Python Crash Course Certificate,Power BI & Tableau for Data Visualization"],
     currentlyLearning: ["Linux", "Advanced ML"],
     askMeAbout: ["AI/ML", "App Dev", "Web Dev", "Cybersecurity"]
 };
@@ -60,19 +60,20 @@ const thiru = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎮 Tic Tac Toe</h3>
-<p align="center"><strong>Classic Two-Player Game</strong></p>
-<p align="center">A simple implementation of the traditional Tic Tac Toe game with basic UI and two-player functionality.</p>
+<h3 align="center">Potential-Customers-For-Upsell
+</h3>
+<p align="center"><strong>Customer Analytics Solution</strong></p>
+<p align="center">Machine learning solution for identifying high-value customer upselling opportunities through predictive analytics and data-driven sales targeting.</p>
 <p align="center">
-<a href="https://github.com/thirusudar03092003/PRODIGY_AD_04.git" target="_blank"><strong>🔗 View Project</strong></a>
+<a href="https://github.com/thirusudar03092003/Potential-Customers-For-Upsell.git" target="_blank"><strong>🔗 View Project</strong></a>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🧮 Basic Calculator</h3>
-<p align="center"><strong>Simple Calculator App</strong></p>
-<p align="center">A straightforward calculator with basic arithmetic operations and a clean interface.</p>
+<h3 align="center">Xconvert-file_converter</h3>
+<p align="center"><strong>Hadoop-Based File Converter</strong></p>
+<p align="center">Advanced file format conversion application leveraging Apache Hadoop's distributed processing for efficient CSV, JSON, XML, and TXT conversions with batch processing capabilities.</p>
 <p align="center">
-<a href="https://github.com/thirusudar03092003/PRODIGY_AD_01.git" target="_blank"><strong>🔗 View Project</strong></a>
+<a href="https://github.com/thirusudar03092003/Xconvert-file_converter.git" target="_blank"><strong>🔗 View Project</strong></a>
 </p>
 </td>
 </tr>
