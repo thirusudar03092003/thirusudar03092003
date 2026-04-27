@@ -76,25 +76,31 @@ const thiru = {
 <a href="https://github.com/thirusudar03092003/Xconvert-file_converter.git" target="_blank"><strong>🔗 View Project</strong></a>
 </p>
 </td>
-</tr>
 <tr>
 <td width="50%">
-<h3 align="center">⏱️ Simple Stopwatch</h3>
-<p align="center"><strong>Basic Timer App</strong></p>
-<p align="center">A straightforward stopwatch application with start, stop, and reset functionality.</p>
+<h3 align="center">Job Portal</h3>
+<p align="center"><strong>Full Stack Web Application</strong></p>
 <p align="center">
-<a href="https://github.com/thirusudar03092003/PRODIGY_AD_03.git" target="_blank"><strong>🔗 View Project</strong></a>
+A full-stack Job Portal built using React, Django REST API, and PostgreSQL, allowing users to register, browse jobs, and apply seamlessly.
+</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/Job_Portal" target="_blank">
+<strong>🔗 View Project</strong>
+</a>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">📋 Basic To-Do List</h3>
-<p align="center"><strong>Simple Task Manager</strong></p>
-<p align="center">A basic to-do list app for adding, completing, and removing tasks.</p>
+<h3 align="center">EduExplore</h3>
+<p align="center"><strong>Educational eCommerce Platform</strong></p>
 <p align="center">
-<a href="https://github.com/thirusudar03092003/PRODIGY_AD_02.git" target="_blank"><strong>🔗 View Project</strong></a>
+A full-stack educational course platform using React and Flask, featuring course search, category filtering, cart management, and recommendation system based on content similarity.
+</p>
+<p align="center">
+<a href="https://github.com/thirusudar03092003/EduExplore" target="_blank">
+<strong>🔗 View Project</strong>
+</a>
 </p>
 </td>
-</tr>
 </table>
 </div>
 
